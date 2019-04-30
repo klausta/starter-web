@@ -3,6 +3,9 @@ this is a description of the project that one can chose to put here or another p
 this is more chnages made aftewrards
 
 ## introudction
+
+this is some text on introudcion
+
 ## purpose
 ## how to contribute
 ## deployment
