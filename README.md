@@ -15,6 +15,8 @@ as stated above this is the purpose
 
 ## deployment
 
+klaus has added some things
+
 this is about deployment
 
 ## more description
