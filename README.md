@@ -7,7 +7,15 @@ this is more chnages made aftewrards
 this is some text on introudcion
 
 ## purpose
+
+as stated above this is the purpose
+
 ## how to contribute
+
+
 ## deployment
+
+this is about deployment
+
 ## more description
 ## deployment2
